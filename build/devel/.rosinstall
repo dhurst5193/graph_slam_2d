@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/hbx/catkin_ws/src/graph_slam_2d/build/devel/setup.sh

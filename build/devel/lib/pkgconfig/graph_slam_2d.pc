@@ -1,0 +1,8 @@
+prefix=/home/hbx/catkin_ws/src/graph_slam_2d/build/devel
+
+Name: graph_slam_2d
+Description: Description of graph_slam_2d
+Version: 1.0.0
+Cflags: 
+Libs: -L/home/hbx/catkin_ws/src/graph_slam_2d/build/devel/lib 
+Requires: 

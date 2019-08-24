@@ -1,0 +1,6 @@
+<launch> 
+  <node name="graph_slam_2d" pkg="graph_slam_2d" type="test_match" output="screen">
+    <rosparam command="load" file="$(find ekf_slam)/config/config.yaml"/>
+  </node>
+</launch>
+  
